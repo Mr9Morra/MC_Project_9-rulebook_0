@@ -1,17 +1,13 @@
-# Quartz v5
+# Project 9
+Project 9 ( рабочее название проекта ) - это авторская настольно ролевая система в научно-фантастическом сеттинге, строящаяся на авторском ядре Mindframe Core.
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Её создание началось с желания поиграть в НРИ которая дает простор для творчества, интересные тактические сражения и глубокое взаимодействие персонажей игроков с игровым миром. При этом, чтобы оно не перегружало ГМа излишними вычислениями, а бои были короткими, драйвовыми и смертоносными, чтобы они легко вплетались в повествование.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+---
+Этот репозиторий содержит актуальную книгу правил.
+Блог разработки: https://t.me/MSI_TTG
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
-
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
-
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+---
+© 2025-2026 Андрей Швец. Игра распространяется по лицензии Creative Commons Attribution‑NonCommercial‑ShareAlike 4.0 International (CC BY‑NC‑SA 4.0).
+Вы можете копировать, делиться и адаптировать игру некоммерческих, при условии указания авторства и сохранения этой лицензии.
+Подробнее: https://creativecommons.org/licenses/by-nc-sa/4.0/
