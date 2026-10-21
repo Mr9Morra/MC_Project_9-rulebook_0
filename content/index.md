@@ -1,6 +1,65 @@
 ---
-title: Mindframe Core 
+publish: true
+created: 2026-10-21T17:39:36.337Z
+modified: 2026-10-21T18:36:12.853Z
 ---
 
-Тестовая страница.
-ПОБЕДА!!!!!!!!
+## Русский
+
+---
+
+Доброго времени суток!
+
+Меня зовут Андрей Швец. Я концепт-художник и геймдизайнер, работаю с игровыми системами, механиками и тем, как они формируют игровой опыт.
+
+Project 9 вырос из моего желания создать настольную ролевую систему, которая сочетает тактическую глубину, свободу действий и взаимодействие с игровым миром, не перегружая участников и Мастера игры излишними вычислениями.
+
+---
+
+**Mindframe Core** - это мое авторское ядро для настольно ролевых игр. Его философия - честная прогрессия с небольшими числами, который бы давал сильное ощущение роста от любого модификатора. А так же создания системы которая упрощает трансформацию нарратива в цифры и цифр в нарратив.
+
+**Project 9** ( рабочее название проекта ) - это авторская настольно ролевая система в научно-фантастическом сеттинге, строящаяся на моем авторском ядре Mindframe Core.
+
+---
+
+Этот репозиторий содержит актуальную версию книги правил.
+
+Дополнительные материалы, новости разработки и обсуждения проекта публикуются в блоге, где можно следить за развитием системы и других проектов, а так же общаться со мной.
+
+**Блог разработки:** <https://t.me/MSI_TTG>
+
+---
+
+© 2025-2026 Андрей Швец. Игра распространяется по лицензии Creative Commons Attribution‑NonCommercial‑ShareAlike 4.0 International (CC BY‑NC‑SA 4.0). Вы можете копировать, делиться и адаптировать игру в некоммерческих целях, при условии указания авторства и сохранения этой лицензии.
+
+Подробнее: <https://creativecommons.org/licenses/by-nc-sa/4.0/>
+
+## English
+
+---
+
+Good day!
+
+My name is Andrey Shvets. I am a concept artist and game designer working with game systems, mechanics, and how they shape the gameplay experience.
+
+Project 9 grew out of my desire to create a tabletop role-playing game that combines tactical depth, freedom of action, and interaction with the game world without overburdening players and the Game Master with unnecessary calculations.
+
+---
+
+**Mindframe Core** is my original mechanical framework for tabletop role-playing games. Its philosophy is built around fair progression using small numbers, where even a minor modifier can create a strong sense of growth. It also aims to make it easier to translate narrative elements into numbers, and numbers back into narrative.
+
+**Project 9** (working title) is an original tabletop role-playing game set in a science fiction universe, built on my own Mindframe Core framework.
+
+---
+
+This repository contains the latest version of the rulebook.
+
+Additional materials, development updates, and project discussions are published on my development blog, where you can follow the progress of this system and my other projects, as well as get in touch with me.
+
+**Development Blog:** <https://t.me/MSI_TTG>
+
+---
+
+© 2025–2026 Andrey Shvets. This game is distributed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0). You may copy, share, and adapt the game for non-commercial purposes, provided that you give appropriate credit and distribute adaptations under the same license.
+
+For more information, see: <https://creativecommons.org/licenses/by-nc-sa/4.0/>
