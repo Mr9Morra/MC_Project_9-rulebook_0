@@ -9,5 +9,8 @@ Project 9 ( рабочее название проекта ) - это автор
 
 ---
 © 2025-2026 Андрей Швец. Игра распространяется по лицензии Creative Commons Attribution‑NonCommercial‑ShareAlike 4.0 International (CC BY‑NC‑SA 4.0).
-Вы можете копировать, делиться и адаптировать игру некоммерческих, при условии указания авторства и сохранения этой лицензии.
+Вы можете копировать, делиться и адаптировать игру в некоммерческих целях, при условии указания авторства и сохранения этой лицензии.
 Подробнее: https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+© 2025–2026 Andrey Shvets. This game is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license (CC BY-NC-SA 4.0). 
+You may copy, share and adapt the game for non-commercial purposes, provided you give appropriate credit and distribute your adaptations under the same license. Learn more: [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
