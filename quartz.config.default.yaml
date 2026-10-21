@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: MC_Project_9-rulebook
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
   locale: ru-RU
-  baseUrl: quartz.jzhao.xyz
+  baseUrl: mr9morra.github.io/MC_Project_9-rulebook_0
   ignorePatterns:
     - private
     - templates
