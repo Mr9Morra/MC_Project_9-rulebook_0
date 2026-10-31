@@ -207,7 +207,7 @@ plugins:
       links:
         Telegram: https://t.me/MSI_TTG
         Support Dev: https://boosty.to/andreyshvets
-        "© 2025–2026 Андрей Швец · CC BY-NC-SA 4.0": https://creativecommons.org/licenses/by-nc-sa/4.0/
+        © 2025–2026 Андрей Швец · CC BY-NC-SA 4.0: https://creativecommons.org/licenses/by-nc-sa/4.0/
     layout:
       position: footer
       priority: 50
