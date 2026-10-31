@@ -61,7 +61,6 @@ plugins:
   - source: "@quartz-community/obsidian-flavored-markdown"
     enabled: true
     options:
-                                                                     maxDepth: 6
       enableInHtmlEmbed: false
       enableCheckbox: true
     order: 30
